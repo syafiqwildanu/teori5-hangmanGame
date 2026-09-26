@@ -1,3 +1,20 @@
 <resources>
-    <string name="app_name">teori5-hangmanGame</string>
+    <string name="app_name">Hangman</string>
+    <string name="judul_permainan">Hangman</string>
+    <string name="hint_tebak">Huruf</string>
+    <string name="btn_tebak">Tebak</string>
+    <string name="btn_main_lagi">Main Lagi</string>
+    <string name="btn_mulai">Mulai Bermain</string>
+    <string name="menang">Kamu Menang!</string>
+    <string name="kalah">Kamu Kalah</string>
+    <string name="gambar_gantungan">Gambar tiang gantungan</string>
+
+    <string-array name="daftar_kata">
+        <item>ANDROID</item>
+        <item>KOTLIN</item>
+        <item>LAYOUT</item>
+        <item>AKTIVITAS</item>
+        <item>INTENT</item>
+        <item>WIDGET</item>
+    </string-array>
 </resources>
