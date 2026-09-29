@@ -15,6 +15,12 @@
         <item>TURIN</item>
         <item>MANCHESTER</item>
         <item>PARIS</item>
-        <item>CHELSEA</item>
+        <item>LONDON</item>
+        <item>BERLIN</item>
+        <item>ROMA</item>
+        <item>TOKYO</item>
+        <item>JAKARTA</item>
+        <item>SURABAYA</item>
+        <item>MEDAN</item>
     </string-array>
 </resources>
