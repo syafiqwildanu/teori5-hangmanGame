@@ -10,11 +10,11 @@
     <string name="gambar_gantungan">Gambar tiang gantungan</string>
 
     <string-array name="daftar_kata">
-        <item>ANDROID</item>
-        <item>KOTLIN</item>
-        <item>LAYOUT</item>
-        <item>AKTIVITAS</item>
-        <item>INTENT</item>
-        <item>WIDGET</item>
+        <item>MADRID</item>
+        <item>BARCELONA</item>
+        <item>TURIN</item>
+        <item>MANCHESTER</item>
+        <item>PARIS</item>
+        <item>CHELSEA</item>
     </string-array>
 </resources>
